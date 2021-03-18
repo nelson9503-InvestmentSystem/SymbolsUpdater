@@ -1,0 +1,12 @@
+[submodule "iexcloudapi"]
+	path = iexcloudapi
+	url = https://github.com/nelson9503-InvestmentSystem/iexcloudapi.git
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/nelson9503-pymodules/mysql.git
+[submodule "timestamp"]
+	path = timestamp
+	url = https://github.com/nelson9503-pymodules/timestamp.git
+[submodule "TerminalReporter"]
+	path = TerminalReporter
+	url = https://github.com/nelson9503-pymodules/TerminalReporter.git
